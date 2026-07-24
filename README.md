@@ -31,8 +31,8 @@ A Python application that captures real-time speech from your microphone using G
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/Speech_To_Text.git
-   cd Speech_To_Text
+   git clone https://github.com/Lalithaditya221/speech_recognition.git
+   cd speech_recognition
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
